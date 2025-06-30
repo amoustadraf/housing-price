@@ -10,20 +10,6 @@ This project builds a regression model to **predict housing prices** using the A
 
 ---
 
-## 📂 Project Structure
-├── AmesHousing.csv               # Original dataset
-├── preprocessed_data.csv         # Cleaned and transformed data
-├── XGBRegressor_model.pkl        # Trained XGBoost model
-├── model_features.pkl            # Features used for prediction
-├── main.ipynb                    # Model training & evaluation notebook
-├── app.py                        # Streamlit app for user input & prediction
-├── images/
-│   ├── before_preprocessed_data_graphs.png
-│   └── preprocessed_data_graphs.png
-├── requirements.txt              # Dependencies
-└── .gitignore
----
-
 ## 📊 Data Overview
 
 - **Dataset**: Ames Housing Dataset ([Link to Kaggle Dataset](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset))
