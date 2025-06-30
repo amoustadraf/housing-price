@@ -63,6 +63,33 @@ XGBRegressor(
 
 ---
 
+## 📌 Top 20 Influential Features
+
+| Feature             | Score |
+|---------------------|-------|
+| Garage Finish_Unf   | 0.396 |
+| Garage Cars         | 0.100 |
+| Fireplaces          | 0.073 |
+| Overall Qual        | 0.052 |
+| Gr Liv Area         | 0.031 |
+| MS Zoning_RL        | 0.030 |
+| Total Bsmt SF       | 0.027 |
+| Paved Drive_Y       | 0.023 |
+| Central Air_Y       | 0.021 |
+| Year Remod/Add      | 0.016 |
+| House Age           | 0.012 |
+| Year Built          | 0.012 |
+| MS Zoning_RM        | 0.007 |
+| Garage Area         | 0.007 |
+| BsmtFin SF 1        | 0.006 |
+| Bsmt Exposure_Gd    | 0.006 |
+| Since Remod         | 0.005 |
+| Exter Cond_Po       | 0.005 |
+| Kitchen AbvGr       | 0.004 |
+| Garage Yr Blt       | 0.004 |
+
+---
+
 ## 🚀 Streamlit App
 
 Run it locally:
