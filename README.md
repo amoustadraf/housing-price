@@ -34,7 +34,7 @@ This project builds a regression model to **predict housing prices** using the A
 
 ---
 
-## 🤖 Model
+## Model
 
 ### Algorithm
 
@@ -74,7 +74,7 @@ Fill out a home’s details and get an instant price prediction.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
@@ -89,14 +89,6 @@ Recommended: Python 3.10+
 - Early preprocessing avoids downstream bugs
 - Monitoring both RMSE and R² is key to model evaluation
 - A complete ML + UI setup makes this project portfolio-ready
-
----
-
-## 🧭 Future Improvements
-
-- Deploy app to Streamlit Cloud
-- Add SHAP for model explainability
-- Use Optuna or GridSearchCV for hyperparameter tuning
 
 ---
 
